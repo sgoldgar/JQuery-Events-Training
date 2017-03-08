@@ -3,10 +3,8 @@
 In this training, you'll practice with some of the most common DOM events in jQuery:
 
 - ready
-- submit
 - change
 - click
-- keypress
 
 The `.ready` method is specific to jQuery and uses a few native JavaScript event types internally. The other events listed are all native JavaScript events, and we recommend you use them with jQuery's `.on`.
 
@@ -26,23 +24,6 @@ Fork this repository to your GitHub account, then clone your GitHub copy onto yo
 **Get the page to say "Go!" without touching the html.**
 
 <img width="450" alt="ready screenshot" src="https://cloud.githubusercontent.com/assets/3254910/17784989/b54a1bdc-6533-11e6-8ca6-abf9a892ff74.png">
-
-<hr>
-
-### `submit`
-
-
-**Stop the forms from submitting.**
-
-<img width="450" alt="submit" src="https://cloud.githubusercontent.com/assets/3254910/17784969/a63343c6-6533-11e6-977e-b3ac4779fe2c.png">
-
-
-+ That's weird. Why does one button reload the same page and the other redirect to youtube?  
-
-+ Hmm... What is the "?" doing in the URL? How did it get there? Try removing it.  
-
-Stretch: Instead of just stopping the forms, make it so that clicking the submit buttons adds an embedded youtube video to the page.
-
 
 <hr>
 
