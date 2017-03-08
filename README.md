@@ -102,13 +102,6 @@ Recommended: Can you link all the pages together? Create a `<nav>` element on ev
 
 <hr>
 
-
-### Deliverables
-
-1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment. Push your updates to GitHub.
-
-1. Choose one of the event types we've looked at or another you'd like to try, and implement it on your website.
-
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
 All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
