@@ -35,7 +35,7 @@ Fork this repository to your GitHub account, then clone your GitHub copy onto yo
 **Addition! Get the total to update whenever you update the numbers.**
 
 Stretch: Add a "reset" button that clears all the inputs.
-
+Stretch 2: Add a 3rd field that uses a random number under 100. 
 
 
 <hr>
