@@ -56,25 +56,6 @@ Stretch: In addition to listing the phrase I clicked, can you include a timestam
 <hr>
 
 
-### `keypress`
-
-**Make a stop watch!**
-
-<img width="450" alt="keypress screenshot" src="https://cloud.githubusercontent.com/assets/3254910/17785026/e7f1ecfe-6533-11e6-922c-e0481692a1ad.png">
-
-When the user hits spacebar, record their "start" time.
-
-The next time they hit the spacebar again, record their new "end" time.  
-
-Then, calculate the time difference, and display it on the page.
-
-Stretch: update the display to show the time while the clock is running. 
-
-
-
-<hr>
-
-
 ###Wrap it Up
 
 Recommended: Can you link all the pages together? Create a `<nav>` element on every page, with links to all the other pages.
